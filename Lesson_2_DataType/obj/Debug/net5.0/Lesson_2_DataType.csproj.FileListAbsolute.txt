@@ -1,0 +1,15 @@
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/bin/Debug/net5.0/Lesson_2_DataType.deps.json
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/bin/Debug/net5.0/Lesson_2_DataType.runtimeconfig.json
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/bin/Debug/net5.0/Lesson_2_DataType.runtimeconfig.dev.json
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/bin/Debug/net5.0/Lesson_2_DataType.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/bin/Debug/net5.0/ref/Lesson_2_DataType.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/bin/Debug/net5.0/Lesson_2_DataType.pdb
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.csproj.AssemblyReference.cache
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.AssemblyInfoInputs.cache
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.AssemblyInfo.cs
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.csproj.CoreCompileInputs.cache
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/ref/Lesson_2_DataType.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.pdb
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_2_DataType/obj/Debug/net5.0/Lesson_2_DataType.genruntimeconfig.cache

@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_Introduction", "Lesson_1_Introduction\Lesson_1_Introduction.csproj", "{BADD88A8-EEBF-43A9-82DB-0912C69756BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2_DataType", "Lesson_2_DataType\Lesson_2_DataType.csproj", "{316E118C-114E-4E3B-AEC0-18661725FC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BADD88A8-EEBF-43A9-82DB-0912C69756BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BADD88A8-EEBF-43A9-82DB-0912C69756BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BADD88A8-EEBF-43A9-82DB-0912C69756BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316E118C-114E-4E3B-AEC0-18661725FC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316E118C-114E-4E3B-AEC0-18661725FC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316E118C-114E-4E3B-AEC0-18661725FC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316E118C-114E-4E3B-AEC0-18661725FC0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

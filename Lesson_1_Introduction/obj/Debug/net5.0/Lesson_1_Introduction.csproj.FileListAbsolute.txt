@@ -1,0 +1,15 @@
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/bin/Debug/net5.0/Lesson_1_Introduction.deps.json
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/bin/Debug/net5.0/Lesson_1_Introduction.runtimeconfig.json
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/bin/Debug/net5.0/Lesson_1_Introduction.runtimeconfig.dev.json
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/bin/Debug/net5.0/Lesson_1_Introduction.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/bin/Debug/net5.0/ref/Lesson_1_Introduction.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/bin/Debug/net5.0/Lesson_1_Introduction.pdb
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.csproj.AssemblyReference.cache
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.AssemblyInfoInputs.cache
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.AssemblyInfo.cs
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.csproj.CoreCompileInputs.cache
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/ref/Lesson_1_Introduction.dll
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.pdb
+/Users/Evens/Library/Mobile Documents/com~apple~CloudDocs/学习/Programming/CSharp/CSharpCrashCourse/Lesson_1_Introduction/obj/Debug/net5.0/Lesson_1_Introduction.genruntimeconfig.cache
